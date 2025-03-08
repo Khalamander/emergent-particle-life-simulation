@@ -1,6 +1,6 @@
 # Particle Life Simulation Playground
 
-![Project Demo](/live-demo-screenshot.png)
+![Project Demo](/public/live-demo-screenshot.png)
 
 ## Description
 
