@@ -1,6 +1,6 @@
 # Particle Life Simulation Playground
 
-[![Project Demo](/emergent-particle-life-simulation/public/live-demo-screenshot.png)]
+[![Project Demo](/live-demo-screenshot.png)]
 
 
 ## Description
